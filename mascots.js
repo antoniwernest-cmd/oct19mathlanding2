@@ -1,0 +1,1 @@
+window.ML_MASCOTS={rocky:"assets/rocky.png",luna:"assets/luna.png"};
